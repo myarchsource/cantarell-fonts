@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five.tf" format="2">
+  <advance width="580"/>
+  <outline>
+    <component base="five" xOffset="39"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>monoWidth</key>
+        <integer>580</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
